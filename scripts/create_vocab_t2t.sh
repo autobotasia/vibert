@@ -1,0 +1,1 @@
+python3 text_encoder_build_subword.py --corpus_filepattern=/home/autobot/projects/autobot/transvivi/data/translate_vivi/corpus-full-* --corpus_max_lines=1000000 --output_filename=../vibert.subword_text_encoder --logtostderr
